@@ -1,0 +1,40 @@
+All bonuses:
+
+Full wolf configuration (.config.w3)
+- Walls Color
+- Ground Color
+- Sky Color
+- MiniMap Color
+- Player Speed
+- Player Angle Speed Move
+- Wall Type in file (1 or other.. (char))
+- Width and Height
+- Size texts (in game)
+- All messages (in all languages ) and their position on GUI
+
+In Game configuration
+
+- Change language
+- Change key ( Z S Q D )
+- Change MiniMap and (in game) texts position
+- Virtualisation of the position of MiniMap and texts during the configuration
+
+All in saved in configuration:
+
+- Key ( Z Q S D )
+- MiniMaps and (in game) texts position
+- Language
+- Your position in the good map level
+- Your looking angle in the good map level
+
+Configuration:
+
+- To change MiniMap or Texts position you have to type the position
+with keyboard (0 to 3)
+- Languages type "e" for english or "f" for french
+
+You can choose with the mouse in GUI and move the looking angle with te mouse in game
+
+Language available: French and English
+
+You can't run into walls
